@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain.iml" group="Blockchain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Problems-The_sum_of_array_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Problems-The_sum_of_array_elements.iml" group="Blockchain/Problems-The_sum_of_array_elements" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Problems-The_sum_of_array_elements_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Problems-The_sum_of_array_elements_main.iml" group="Blockchain/Problems-The_sum_of_array_elements" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Problems-The_sum_of_array_elements_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Problems-The_sum_of_array_elements_test.iml" group="Blockchain/Problems-The_sum_of_array_elements" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Triples/Problems-Triples.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Triples/Problems-Triples.iml" group="Blockchain/Problems-Triples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Triples/Problems-Triples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Triples/Problems-Triples_main.iml" group="Blockchain/Problems-Triples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Triples/Problems-Triples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Triples/Problems-Triples_test.iml" group="Blockchain/Problems-Triples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Blockchain/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Blockchain/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Blockchain/util" />
+    </modules>
+  </component>
+</project>

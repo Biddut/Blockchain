@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-In_a_box_main" target="1.8" />
+      <module name="Problems-In_a_box_test" target="1.8" />
       <module name="Problems-Right_Rotation_main" target="1.8" />
       <module name="Problems-Right_Rotation_test" target="1.8" />
       <module name="Problems-The_sum_of_array_elements_main" target="1.8" />

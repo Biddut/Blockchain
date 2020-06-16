@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8446ff1-da03-4a91-a0b0-595a4c4de859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/In a box/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/In a box/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/In a box/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/In a box/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Triples/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Triples/out/production/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,38 +75,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="276" y="203" key="FileDocumentManager.FileCacheConflict/0.0.1366.728@0.0.1366.728" timestamp="1592116718818" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592118352360">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592119961997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592118352360" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592118352360">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592119961997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592119961997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592118352360" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592118352359">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592119961997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592119961997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592118352359" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592118352360">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592119961997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592119961997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592118352360" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592118303156">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592119961997" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592119961992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592118303156" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592118303155">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592119961992" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592119961992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592118303155" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592118303155">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592119961992" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592119961992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592118303155" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592118303156">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592119961992" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592119961992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592118303156" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592119961992" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592284899305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592284899305" />
     <state x="259" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592115893508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

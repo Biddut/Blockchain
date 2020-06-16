@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain.iml" group="Blockchain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems-In_a_box.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems-In_a_box.iml" group="Blockchain/Problems-In_a_box" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems-In_a_box_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems-In_a_box_main.iml" group="Blockchain/Problems-In_a_box" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems-In_a_box_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems-In_a_box_test.iml" group="Blockchain/Problems-In_a_box" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation.iml" group="Blockchain/Problems-Right_Rotation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_main.iml" group="Blockchain/Problems-Right_Rotation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_test.iml" group="Blockchain/Problems-Right_Rotation" />

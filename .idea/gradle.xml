@@ -10,8 +10,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/In a box" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
             <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/The first day of a month or not" />
             <option value="$PROJECT_DIR$/Problems/The sum of array elements" />
             <option value="$PROJECT_DIR$/Problems/Triples" />
             <option value="$PROJECT_DIR$/util" />

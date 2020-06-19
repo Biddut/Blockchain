@@ -16,6 +16,8 @@
       <module name="Problems-The_first_and_the_last_day_of_a_month_test" target="1.8" />
       <module name="Problems-The_first_day_of_a_month_or_not_main" target="1.8" />
       <module name="Problems-The_first_day_of_a_month_or_not_test" target="1.8" />
+      <module name="Problems-The_last_day_of_a_month_main" target="1.8" />
+      <module name="Problems-The_last_day_of_a_month_test" target="1.8" />
       <module name="Problems-The_sum_of_array_elements_main" target="1.8" />
       <module name="Problems-The_sum_of_array_elements_test" target="1.8" />
       <module name="Problems-Triples_main" target="1.8" />

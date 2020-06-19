@@ -2,37 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8446ff1-da03-4a91-a0b0-595a4c4de859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Problems-Complex_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Problems-Complex_numbers_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Problems-Complex_numbers_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Patient needs a doctor/Problems-Patient_needs_a_doctor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Patient needs a doctor/Problems-Patient_needs_a_doctor_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Patient needs a doctor/Problems-Patient_needs_a_doctor_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The first day of a month or not/Problems-The_first_day_of_a_month_or_not.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The first day of a month or not/Problems-The_first_day_of_a_month_or_not_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The first day of a month or not/Problems-The_first_day_of_a_month_or_not_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Complex numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Complex numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Complex numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/10 days before/Problems-10_days_before.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/10 days before/Problems-10_days_before_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/10 days before/Problems-10_days_before_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/10 days before/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/10 days before/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/10 days before/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/10 days before/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/In a box/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/In a box/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Triples/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Triples/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Right_Rotation_main" />
@@ -75,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-10_days_before_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Triples_main" />
@@ -84,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -108,22 +111,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="276" y="203" key="FileDocumentManager.FileCacheConflict/0.0.1366.728@0.0.1366.728" timestamp="1592116718818" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592287784799">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592542074229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592287784799" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592287784799">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592542074229" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592542074229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592287784799" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592287784798">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592542074229" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592542074227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592287784798" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592287784799">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592542074227" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592542074229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592287784799" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592542074229" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592119961992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -140,10 +143,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592119961992" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592284899305">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592538150319">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592284899305" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592538150319" />
     <state x="259" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592115893508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

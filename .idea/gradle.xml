@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/10 days before" />
+            <option value="$PROJECT_DIR$/Problems/Avoid NPE" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Find all mondays" />
             <option value="$PROJECT_DIR$/Problems/In a box" />

@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8446ff1-da03-4a91-a0b0-595a4c4de859" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Problems-Return_empty_string_when_argument_is_null.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Problems-Return_empty_string_when_argument_is_null_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Problems-Return_empty_string_when_argument_is_null_test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Some hours and minutes ago/Problems-Some_hours_and_minutes_ago.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Some hours and minutes ago/Problems-Some_hours_and_minutes_ago_main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Some hours and minutes ago/Problems-Some_hours_and_minutes_ago_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-remote-info.yaml" afterDir="false" />

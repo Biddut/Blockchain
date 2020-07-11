@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8446ff1-da03-4a91-a0b0-595a4c4de859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Only true or false/Problems-Only_true_or_false.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Only true or false/Problems-Only_true_or_false_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Only true or false/Problems-Only_true_or_false_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Only true or false/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Only true or false/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Only true or false/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Only true or false/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Problems-Safe_converting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Problems-Safe_converting_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Safe converting/Problems-Safe_converting_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Safe converting/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Safe converting/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Safe converting/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Safe converting/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -18,47 +18,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/10 days before/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/10 days before/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/10 days before/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/10 days before/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Avoid NPE/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Avoid NPE/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Avoid NPE/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Avoid NPE/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Complex numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Complex numbers/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Complex numbers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Complex numbers/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find all mondays/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find all mondays/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find all mondays/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find all mondays/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/In a box/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/In a box/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/In a box/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/In a box/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/In a box/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/In a box/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Patient needs a doctor/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Right Rotation/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Right Rotation/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Seconds since start of a day/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Seconds since start of a day/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Seconds since start of a day/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Seconds since start of a day/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Seconds since start of a day/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Seconds since start of a day/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Some hours and minutes ago/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first and the last day of a month/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first day of a month or not/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first day of a month or not/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first day of a month or not/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The last day of a month/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The last day of a month/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The last day of a month/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The last day of a month/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The last day of a month/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The last day of a month/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The sum of array elements/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The sum of array elements/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Triples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Triples/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Triples/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Triples/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Triples/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Triples/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -20,6 +20,8 @@
       <module name="Problems-Return_empty_string_when_argument_is_null_test" target="1.8" />
       <module name="Problems-Right_Rotation_main" target="1.8" />
       <module name="Problems-Right_Rotation_test" target="1.8" />
+      <module name="Problems-Safe_converting_main" target="1.8" />
+      <module name="Problems-Safe_converting_test" target="1.8" />
       <module name="Problems-Seconds_since_start_of_a_day_main" target="1.8" />
       <module name="Problems-Seconds_since_start_of_a_day_test" target="1.8" />
       <module name="Problems-Some_hours_and_minutes_ago_main" target="1.8" />

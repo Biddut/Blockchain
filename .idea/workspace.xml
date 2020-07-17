@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8446ff1-da03-4a91-a0b0-595a4c4de859" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Boxes are not just objects!/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Boxes are not just objects!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Boxes are not just objects!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Boxes are not just objects!/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/10 days before/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/10 days before/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Avoid NPE/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Avoid NPE/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find all mondays/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find all mondays/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/In a box/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/In a box/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Only true or false/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Only true or false/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Return empty string when argument is null/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Safe converting/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Safe converting/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Seconds since start of a day/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Seconds since start of a day/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Some hours and minutes ago/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first and the last day of a month/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first day of a month or not/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first day of a month or not/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The last day of a month/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The last day of a month/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Triples/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Triples/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,22 +102,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="276" y="203" key="FileDocumentManager.FileCacheConflict/0.0.1366.728@0.0.1366.728" timestamp="1592116718818" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592550137672">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1218" height="181" key="GridCell.Tab.0.bottom" timestamp="1594956797756">
+      <screen x="88" y="0" width="1278" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592550137672" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592550137672">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1218" height="181" key="GridCell.Tab.0.bottom/88.0.1278.768@88.0.1278.768" timestamp="1594956797756" />
+    <state width="1218" height="181" key="GridCell.Tab.0.center" timestamp="1594956797755">
+      <screen x="88" y="0" width="1278" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592550137672" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592550137671">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1218" height="181" key="GridCell.Tab.0.center/88.0.1278.768@88.0.1278.768" timestamp="1594956797755" />
+    <state width="1218" height="181" key="GridCell.Tab.0.left" timestamp="1594956797754">
+      <screen x="88" y="0" width="1278" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592550137671" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592550137672">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1218" height="181" key="GridCell.Tab.0.left/88.0.1278.768@88.0.1278.768" timestamp="1594956797754" />
+    <state width="1218" height="181" key="GridCell.Tab.0.right" timestamp="1594956797755">
+      <screen x="88" y="0" width="1278" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592550137672" />
+    <state width="1218" height="181" key="GridCell.Tab.0.right/88.0.1278.768@88.0.1278.768" timestamp="1594956797755" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592119961992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

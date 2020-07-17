@@ -14,6 +14,8 @@
       <module name="Problems-In_a_box_test" target="1.8" />
       <module name="Problems-Only_true_or_false_main" target="1.8" />
       <module name="Problems-Only_true_or_false_test" target="1.8" />
+      <module name="Problems-Pastry_packing_optimization_main" target="1.8" />
+      <module name="Problems-Pastry_packing_optimization_test" target="1.8" />
       <module name="Problems-Patient_needs_a_doctor_main" target="1.8" />
       <module name="Problems-Patient_needs_a_doctor_test" target="1.8" />
       <module name="Problems-Return_empty_string_when_argument_is_null_main" target="1.8" />

@@ -18,6 +18,8 @@
       <module name="Problems-In_a_box_test" target="1.8" />
       <module name="Problems-Only_true_or_false_main" target="1.8" />
       <module name="Problems-Only_true_or_false_test" target="1.8" />
+      <module name="Problems-Output_the_list's_elements_main" target="1.8" />
+      <module name="Problems-Output_the_list's_elements_test" target="1.8" />
       <module name="Problems-Pastry_packing_optimization_main" target="1.8" />
       <module name="Problems-Pastry_packing_optimization_test" target="1.8" />
       <module name="Problems-Patient_needs_a_doctor_main" target="1.8" />

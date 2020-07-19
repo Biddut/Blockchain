@@ -14,6 +14,8 @@
       <module name="Problems-Creating_list_test" target="1.8" />
       <module name="Problems-Find_all_mondays_main" target="1.8" />
       <module name="Problems-Find_all_mondays_test" target="1.8" />
+      <module name="Problems-Find_the_nearest_number_main" target="1.8" />
+      <module name="Problems-Find_the_nearest_number_test" target="1.8" />
       <module name="Problems-In_a_box_main" target="1.8" />
       <module name="Problems-In_a_box_test" target="1.8" />
       <module name="Problems-Only_true_or_false_main" target="1.8" />

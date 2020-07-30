@@ -32,5 +32,9 @@ files:
     \    }\n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6950
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed test #2 of 5. Wrong answer
+  time: Thu, 30 Jul 2020 06:42:47 UTC
 record: -1
